@@ -322,3 +322,4 @@ $(function(){
 		wow.init();
 	}
 	
+	$('.callchat a').tooltip();
